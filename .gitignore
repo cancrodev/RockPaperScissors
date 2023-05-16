@@ -1,0 +1,63 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+*.apk
+*.ipa
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.vs
+.localhistory
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# ==================== #
+# MS Office Temp Files #
+# ==================== #
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+
+# ==================== #
+# Local AssetBundle    #
+# ==================== #
+AssetBundles/
+
+# ==================== #
+# Engineer Material   #
+# ==================== #
+/Assets/StreamingAssets/crashlytics-build.properties
+/Assets/StreamingAssets/crashlytics-build.properties.meta
+
+# ==================== #
+# IDE Generated        #
+# ==================== #
+.idea
+Assets/Plugins/Editor/JetBrains
+Assets/Plugins/Editor/JetBrains.meta
+.vsconfig
